@@ -15,7 +15,7 @@ step:-1
 
 clone the project and cd to the project
 
-$
+$ git clone https://github.com/GopiPacha1996/Laravel.git && cd Laravel
 
 step-2:-
 
